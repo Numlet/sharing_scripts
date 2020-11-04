@@ -1,0 +1,18 @@
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/MPI_far_future/lm_f/3h_CORDEX/
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/MPI_far_future/lm_f/1h_TOT_PREC/
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/MPI_far_future/lm_f/3h_CORDEX/
+
+
+GA_MPI
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/MPI_present/lm_f/
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/MPI_near_future/lm_f/
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/MPI_far_future/lm_f/
+
+GA_ERA
+ERA_fine: /store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/GA_fine_ERA/lm_f/
+ERA_coarse: /project/pr94/jvergara/RUNS_IN_SCRATCH/GA_coarse_ERA/lm_c/
+/store/c2sm/pr04/jvergara/RUNS_IN_SCRATCH/GA_fine_PGW_ff/lm_f/
+
+OLD_EU
+PGW: /project/pr94/jvergara/results_PGW/PGW/
+ERA: /project/pr94/davidle/results_clim/
